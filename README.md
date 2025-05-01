@@ -67,10 +67,10 @@
 ---
 
 ### 📊 Stats GitHub
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=h0ldhaven&show_icons=true&theme=radical" style="display:inline-block; margin-right: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h0ldhaven&layout=compact&theme=radical" style="display:inline-block; margin-right: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=h0ldhaven&count_private=true&show_icons=true&theme=radical" style="display:inline-block;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h0ldhaven&layout=compact&theme=radical&langs_count=10" style="display:inline-block; margin-right: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=h0ldhaven&count_private=true&show_icons=true&theme=radical&hide=prs" style="display:inline-block;" />
 </p>
 
 ---
