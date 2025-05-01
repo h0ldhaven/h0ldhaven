@@ -68,9 +68,9 @@
 
 ### 📊 Stats GitHub
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h0ldhaven&langs_count=10&theme=tokyonight" style="display:inline-block; margin-right: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=h0ldhaven&show_icons=true&theme=tokyonight" style="display:inline-block; margin-right: 10px;" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=h0ldhaven&theme=tokyonight" style="display:inline-block; margin-right: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h0ldhaven&langs_count=10&theme=tokyonight_blue" style="display:inline-block; margin-right: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=h0ldhaven&show_icons=true&theme=tokyonight_blue" style="display:inline-block; margin-right: 10px;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=h0ldhaven&theme=tokyonight_blue" style="display:inline-block; margin-right: 10px;" />
 </p>
 
 ---
