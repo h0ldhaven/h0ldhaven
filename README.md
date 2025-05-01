@@ -80,6 +80,20 @@
 
 ---
 
+<p align="left">
+  <a href="https://www.tiktok.com/@h0ldhaven" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+  </a>
+  <a href="https://www.instagram.com/h0ldhaven" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.twitch.tv/h0ldhaven" target="_blank">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" />
+  </a>
+</p>
+
+---
+
 <!--
 **h0ldhaven/h0ldhaven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
