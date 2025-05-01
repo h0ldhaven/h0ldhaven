@@ -97,12 +97,6 @@
   <a href="https://coralislandgame.com/">
     <img src="https://img.shields.io/badge/Coral%20Island-FF69B4?style=flat-square" alt="Coral Island" />
   </a>
-  <a href="https://stardewvalley.net/">
-    <img src="https://img.shields.io/badge/Stardew%20Valley-FFCC33?style=flat-square" alt="Stardew Valley" />
-  </a>
-  <a href="https://www.ea.com/games/the-sims/the-sims-4">
-    <img src="https://img.shields.io/badge/The%20Sims-00B5E2?style=flat-square" alt="The Sims" />
-  </a>
 </p>
 
 ---
