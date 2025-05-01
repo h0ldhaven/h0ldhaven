@@ -19,14 +19,12 @@
 
 ---
 
-### 🌱 En ce moment...
-- 🔭 Je travaille actuellement sur des **applications React avec Vite et TypeScript** et le **déploiement CI/CD**.
+### ⏳ En ce moment...
+- 😄 Pronoms : **il/lui**.
 - 🌱 Je suis en train d'apprendre **les meilleures pratiques de développement full-stack** et **l'automatisation avec GitHub Actions**.
 - 👯 Je cherche à collaborer sur des projets de **web fullstack**, notamment dans le domaine **React vite** ou **React + Laravel**.
-- 🤔 Je cherche de l'aide avec **l'optimisation des performances de React** et **l'intégration continue avec Vercel**.
 - 💬 Demandez-moi à propos du **gaming** et vous aurez mon attention !
 - 📫 Vous pouvez me contacter par **Discord** : `h0ldhaven` ou par **email** : `contact@holdhaven.fr`. .
-- 😄 Pronoms : **il/lui**.
 - ⚡ Fun fact : Je suis **[streamer Twitch](https://www.twitch.tv/h0ldhaven), j'adore partager mes sessions de jeu et parfois même de code avec ma communauté !
 
 ---
