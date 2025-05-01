@@ -69,8 +69,7 @@
 ### 📊 Stats GitHub
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=h0ldhaven&show_icons=true&theme=radical" style="display:inline-block; margin-right: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h0ldhaven&layout=compact&theme=radical&langs_count=10" style="display:inline-block; margin-right: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h0ldhaven&layout=donut&theme=radical" style="display:inline-block;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h0ldhaven&langs_count=10&theme=radical" style="display:inline-block; margin-right: 10px;" />
 </p>
 
 ---
