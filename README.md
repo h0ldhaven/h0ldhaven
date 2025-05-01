@@ -84,7 +84,7 @@
   <a href="https://www.tiktok.com/@h0ldhaven" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
-  <a href="https://www.instagram.com/h0ldhaven" target="_blank">
+  <a href="https://www.instagram.com/holdhaven" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://www.twitch.tv/h0ldhaven" target="_blank">
