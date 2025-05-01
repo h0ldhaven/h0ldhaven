@@ -80,7 +80,7 @@
 
 ---
 
-<p align="left">
+<p align="center">
   <a href="https://www.tiktok.com/@h0ldhaven" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
