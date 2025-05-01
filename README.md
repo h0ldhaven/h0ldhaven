@@ -70,7 +70,7 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=h0ldhaven&show_icons=true&theme=radical" style="display:inline-block; margin-right: 10px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h0ldhaven&layout=compact&theme=radical&langs_count=10" style="display:inline-block; margin-right: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=h0ldhaven&count_private=true&show_icons=true&theme=radical&hide=prs&include_all_commits=true" style="display:inline-block;" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=h0ldhaven&theme=radical" style="display:inline-block;" />
 </p>
 
 ---
