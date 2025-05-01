@@ -19,6 +19,24 @@
 
 ---
 
+### 🌱 En ce moment...
+- 🔭 Je travaille actuellement sur des **applications React avec Vite et TypeScript** et le **déploiement CI/CD**.
+- 🌱 Je suis en train d'apprendre **les meilleures pratiques de développement full-stack** et **l'automatisation avec GitHub Actions**.
+- 👯 Je cherche à collaborer sur des projets de **web fullstack**, notamment dans le domaine **React vite** ou **React + Laravel**.
+- 🤔 Je cherche de l'aide avec **l'optimisation des performances de React** et **l'intégration continue avec Vercel**.
+- 💬 Demandez-moi à propos du **gaming** et vous aurez mon attention !
+- 📫 Vous pouvez me contacter par **Discord** : `h0ldhaven` ou par **email** : `contact@holdhaven.fr`. .
+- 😄 Pronoms : **il/lui**.
+- ⚡ Fun fact : Je suis **[streamer Twitch](https://www.twitch.tv/h0ldhaven), j'adore partager mes sessions de jeu et parfois même de code avec ma communauté !
+
+---
+
+### 📫 Me contacter
+- Discord : `h0ldhaven`
+- Email : `contact@holdhaven.fr`
+
+---
+
 ### 🚀 Mes stacks
 
 #### 🎨 Frontend
@@ -67,16 +85,25 @@
 
 ---
 
-### 🌱 En ce moment...
-- 🔭 Je travaille actuellement sur des **applications React avec Vite et TypeScript** et le **déploiement CI/CD**.
-- 🌱 Je suis en train d'apprendre **les meilleures pratiques de développement full-stack** et **l'automatisation avec GitHub Actions**.
-- 👯 Je cherche à collaborer sur des projets de **web fullstack**, notamment dans le domaine **React vite** ou **React + Laravel**.
-- 🤔 Je cherche de l'aide avec **l'optimisation des performances de React** et **l'intégration continue avec Vercel**.
-- 💬 Demandez-moi à propos du **gaming** et vous aurez mon attention !
-- 📫 Vous pouvez me contacter par **Discord** : `h0ldhaven` ou par **email** : `contact@holdhaven.fr`. .
-- 😄 Pronoms : **il/lui**.
-- ⚡ Fun fact : Je suis **[streamer Twitch](https://www.twitch.tv/h0ldhaven), j'adore partager mes sessions de jeu et parfois même de code avec ma communauté !
+### 🎮 Jeux vidéo où j’ai développé des projets
 
+<p align="left">
+  <a href="https://www.minecraft.net/">
+    <img src="https://img.shields.io/badge/Minecraft-009E5A?style=flat-square&logo=minecraft&logoColor=white" alt="Minecraft" />
+  </a>
+  <a href="https://fivem.net/">
+    <img src="https://img.shields.io/badge/FiveM-F57C00?style=flat-square&logo=fivem&logoColor=white" alt="FiveM" />
+  </a>
+  <a href="https://coralislandgame.com/">
+    <img src="https://img.shields.io/badge/Coral%20Island-FF69B4?style=flat-square" alt="Coral Island" />
+  </a>
+  <a href="https://stardewvalley.net/">
+    <img src="https://img.shields.io/badge/Stardew%20Valley-FFCC33?style=flat-square" alt="Stardew Valley" />
+  </a>
+  <a href="https://www.ea.com/games/the-sims/the-sims-4">
+    <img src="https://img.shields.io/badge/The%20Sims-00B5E2?style=flat-square" alt="The Sims" />
+  </a>
+</p>
 
 ---
 
@@ -86,12 +113,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=h0ldhaven&show_icons=true&theme=tokyonight" style="display:inline-block; margin-right: 10px;" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=h0ldhaven&theme=tokyonight" style="display:inline-block; margin-right: 10px;" />
 </p>
-
----
-
-### 📫 Me contacter
-- Discord : `h0ldhaven`
-- Email : `contact@holdhaven.fr`
 
 ---
 
