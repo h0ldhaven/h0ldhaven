@@ -1,37 +1,16 @@
-# 👋 Salut, moi c'est Holdhaven
+# 👋 Bonjour, moi c'est Holdhaven
 
-💯 Développeur diplômé, passionné de code et de jeux vidéo.  
-🎓 Licence CDA (Concepteur Développeur d’Application), obtenue en novembre 2024.  
-
----
-
-<p align="center">
-  <a href="https://www.tiktok.com/@h0ldhaven" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
-  </a>
-  <a href="https://www.instagram.com/holdhaven" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.twitch.tv/h0ldhaven" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" />
-  </a>
-</p>
+✅ Concepteur Développeur d'Applications diplômé, titre RNCP-31678.
+🎓 Licence CDA (Concepteur Développeur d’Application), obtenue en novembre 2024.
+😍 Passionné de code et de jeux vidéo.
 
 ---
 
-### ⏳ En ce moment...
-- 😄 Pronoms : **il/lui**.
-- 🌱 Je suis en train d'apprendre **les meilleures pratiques de développement full-stack** et **l'automatisation avec GitHub Actions**.
-- 👯 Je cherche à collaborer sur des projets de **web fullstack**, notamment dans le domaine **React vite** ou **React + Laravel**.
-- 💬 Demandez-moi à propos du **gaming** et vous aurez mon attention !
-- 📫 Vous pouvez me contacter par **Discord** : `h0ldhaven` ou par **email** : `contact@holdhaven.fr`. .
-- ⚡ Fun fact : Je suis **[streamer Twitch](https://www.twitch.tv/h0ldhaven), j'adore partager mes sessions de jeu et parfois même de code avec ma communauté !
-
----
-
-### 📫 Me contacter
-- Discord : `h0ldhaven`
-- Email : `contact@holdhaven.fr`
+### À propos de moi :
+- ✅ Développeur web fullstack, expérimenté dans les bonnes pratiques et l’automatisation des processus de développement.
+- 👯 Je cherche à collaborer sur des projets de web fullstack, notamment en React (Vite) ou React + Laravel, tout en restant ouvert à d’autres technologies et stacks.
+- 💬 Curieux et passionné, j’aime discuter de technologie, gaming ou tout autre sujet intéressant.
+- 📫 Vous pouvez me contacter par **email** : `contact@holdhaven.fr`.
 
 ---
 
@@ -74,28 +53,12 @@
 
 ---
 
-### 🛠️ **Technologies explorées (encore en apprentissage)**
+### 🛠️ **Technologies complémentaires**
 
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" alt="Android Studio" />
   <img src="https://img.shields.io/badge/-.dll-00559C?style=flat-square&logo=windows&logoColor=white" alt=".dll" />
 </div>
-
----
-
-### 🎮 Jeux vidéo où j’ai développé des projets
-
-<p align="left">
-  <a href="https://www.minecraft.net/">
-    <img src="https://img.shields.io/badge/Minecraft-009E5A?style=flat-square&logo=minecraft&logoColor=white" alt="Minecraft" />
-  </a>
-  <a href="https://fivem.net/">
-    <img src="https://img.shields.io/badge/FiveM-F57C00?style=flat-square&logo=fivem&logoColor=white" alt="FiveM" />
-  </a>
-  <a href="https://coralislandgame.com/">
-    <img src="https://img.shields.io/badge/Coral%20Island-FF69B4?style=flat-square" alt="Coral Island" />
-  </a>
-</p>
 
 ---
 
