@@ -1,7 +1,9 @@
 # 👋 Bonjour, moi c'est Holdhaven
 
 ✅ Concepteur Développeur d'Applications diplômé, titre RNCP-31678. 
+
 🎓 Licence CDA (Concepteur Développeur d’Application), obtenue en novembre 2024. 
+
 😍 Passionné de code et de jeux vidéo. 
 
 ---
