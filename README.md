@@ -1,4 +1,4 @@
-# 👋 Bonjour, moi c'est Holdhaven
+# 👋 Bonjour et bienvenue sur ma page !
 
 ✅ Concepteur Développeur d'Applications diplômé, titre RNCP-31678. 
 
