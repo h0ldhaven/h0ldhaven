@@ -4,7 +4,6 @@
 
 ### Aboue me :
 - 🎓 Certified Application Designer and Developer, RNCP-31678 qualification (license).
-- 😍 Passionate about coding and video games.
 - ✅ Full-stack web developer, experienced in best practices and automation of development processes.
 - 👯 I am looking to collaborate on full-stack web projects, particularly in React (Vite) or React + TypeScript, while remaining open to other technologies and stacks..
 - 💬 Curious and passionate, I enjoy discussing technology, gaming, or any other interesting topic..
