@@ -1,7 +1,9 @@
 # 👋 Hello and welcome to my GitHub page. !
 
-✅ Certified Application Designer and Developer, RNCP-31678 qualification. 
-🎓 CDA (Application Designer and Developer) license. 
+✅ Certified Application Designer and Developer, RNCP-31678 qualification.
+
+🎓 CDA (Application Designer and Developer) license.
+
 😍 Passionate about coding and video games.
 
 ---
