@@ -1,24 +1,22 @@
-# 👋 Bonjour et bienvenue sur ma page !
+# 👋 Hello and welcome to my GitHub page. !
 
-✅ Concepteur Développeur d'Applications diplômé, titre RNCP-31678. 
-
-🎓 Licence CDA (Concepteur Développeur d’Application), obtenue en novembre 2024. 
-
-😍 Passionné de code et de jeux vidéo. 
+✅ Certified Application Designer and Developer, RNCP-31678 qualification. 
+🎓 CDA (Application Designer and Developer) license. 
+😍 Passionate about coding and video games.
 
 ---
 
 ### À propos de moi :
-- ✅ Développeur web fullstack, expérimenté dans les bonnes pratiques et l’automatisation des processus de développement.
-- 👯 Je cherche à collaborer sur des projets de web fullstack, notamment en React (Vite) ou React + Laravel, tout en restant ouvert à d’autres technologies et stacks.
-- 💬 Curieux et passionné, j’aime discuter de technologie, gaming ou tout autre sujet intéressant.
-- 📫 Vous pouvez me contacter par **email** : `contact@holdhaven.fr`.
+- ✅ Full-stack web developer, experienced in best practices and automation of development processes.
+- 👯 I am looking to collaborate on full-stack web projects, particularly in React (Vite) or React + TypeScript, while remaining open to other technologies and stacks..
+- 💬 Curious and passionate, I enjoy discussing technology, gaming, or any other interesting topic..
+- 📫 You can contact me by **email** : `contact@holdhaven.fr`.
 
 ---
 
-### 🚀 Mes stacks
+### 🚀 My technical stacks
 
-#### 🎨 Frontend
+#### 🎨 Front-End
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React" />
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -31,7 +29,7 @@
   <img src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="SASS" />
 </div>
 
-#### 💻 Backend
+#### 💻 Back-End
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/-Laravel-EF4135?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
@@ -42,7 +40,7 @@
 </div>
 
 
-#### ⚙️ Outils / DevOps
+#### ⚙️ Tools / DevOps
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
@@ -55,7 +53,7 @@
 
 ---
 
-### 🛠️ **Technologies complémentaires**
+### 🛠️ **Complementary technologies**
 
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" alt="Android Studio" />
@@ -64,7 +62,7 @@
 
 ---
 
-### 📊 Stats GitHub
+### 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h0ldhaven&langs_count=10&theme=tokyonight" style="display:inline-block; margin-right: 10px;" />
   <img src="https://github-readme-stats.vercel.app/api?username=h0ldhaven&show_icons=true&theme=tokyonight" style="display:inline-block; margin-right: 10px;" />
