@@ -7,7 +7,6 @@
 - ✅ Full-stack web developer, experienced in best practices and automation of development processes.
 - 👯 I am looking to collaborate on full-stack web projects, particularly in React (Vite) or React + TypeScript, while remaining open to other technologies and stacks..
 - 💬 Curious and passionate, I enjoy discussing technology, gaming, or any other interesting topic..
-- 📫 You can contact me by **email** : `contact@holdhaven.fr`.
 
 ---
 
