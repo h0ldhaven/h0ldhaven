@@ -49,12 +49,24 @@
 
 ---
 
-### 🛠️ **Complementary technologies**
+### 🛠️ Complementary technologies
+<p>
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/Unix-FCC624?style=for-the-badge&logo=unix&logoColor=black" alt="Unix" />
+  <img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell Script" />
+  <img src="https://img.shields.io/badge/Batch-4D4D4D?style=for-the-badge&logo=windows&logoColor=white" alt="Batch" />
+  <img src="https://img.shields.io/badge/DLL-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="DLL" />
+</p>
 
-<div style="display: flex; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" alt="Android Studio" />
-  <img src="https://img.shields.io/badge/-.dll-00559C?style=flat-square&logo=windows&logoColor=white" alt=".dll" />
-</div>
+---
+
+### 🖥️ Operating Systems
+<p>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white" alt="macOS" />
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+</p>
 
 ---
 
